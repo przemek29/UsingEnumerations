@@ -1,0 +1,4 @@
+C:\Users\DOMINIKA\AppData\Local\Temporary Projects\UsingEnumerations\bin\Debug\UsingEnumerations.exe
+C:\Users\DOMINIKA\AppData\Local\Temporary Projects\UsingEnumerations\bin\Debug\UsingEnumerations.pdb
+C:\Users\DOMINIKA\AppData\Local\Temporary Projects\UsingEnumerations\obj\x86\Debug\UsingEnumerations.exe
+C:\Users\DOMINIKA\AppData\Local\Temporary Projects\UsingEnumerations\obj\x86\Debug\UsingEnumerations.pdb
